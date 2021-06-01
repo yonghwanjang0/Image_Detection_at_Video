@@ -8,7 +8,7 @@ This source code find the video time and frame count that matches the image temp
 * Press Button Start or F2.
 
 ## result
-* Result print like "playtime / total seconds" by result window.
+* Result print like "playtime / total seconds" by result window. (ex. 4:30 / 270)
 
 ## requirements
 * OpenCV
