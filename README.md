@@ -5,7 +5,7 @@ This source code find the video time and frame count that matches the image temp
 ## use
 * Select video files folder.
 * Copy the image file with the pattern you want to find to the 'template' folder. (only one image.)
-* Press Button Start or F2.
+* Press Button Start or Keyboard F2.
 * If matching pattern is found, print in the result window.
 
 ## result
