@@ -7,6 +7,7 @@ This source code find the video time and frame count that matches the image temp
 * Copy the image file with the pattern you want to find to the 'template' folder. (only one image.)
 * Press Button Start or Keyboard F2 Button.
 * If matching pattern is found, print in the result window.
+* Work with all media files in the selected folder.
 
 ## result
 * Result print like "playtime / total seconds" by result window. (ex. 4:30 / 270)
