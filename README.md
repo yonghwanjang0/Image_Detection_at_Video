@@ -1,5 +1,4 @@
 # Image_Detection_at_Video
-
 This source code find the video time and frame count that matches the image template pattern you have entered.
 
 ## use
