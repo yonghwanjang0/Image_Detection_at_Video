@@ -10,6 +10,7 @@ This source code find the video time and frame count that matches the image temp
 
 ## result
 * Result print like "playtime / total seconds" by result window. (ex. 4:30 / 270)
+* If all files have been work done. print "process finished" by result window.
 
 ## requirements
 * OpenCV
