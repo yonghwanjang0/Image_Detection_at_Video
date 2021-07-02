@@ -7,7 +7,7 @@ This source code makes for windows 10.
 * Select video files folder.
 * Copy the image file with the pattern you want to find to the '/template' folder. (only one image.)
 * Press Button Start or Keyboard F2 Button.
-* If matching pattern is found, timestamp print in the result window.
+* Whenever matching pattern is found at file, timestamp is printed in the result window.
 * When the work starts, it scans all media files in the selected folder.
 
 ## result
