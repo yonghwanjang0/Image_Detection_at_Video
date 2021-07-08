@@ -11,7 +11,7 @@ This source code makes for windows 10.
 * When the work starts, it scans all media files in the selected folder.
 
 ## result
-* Result print like "playtime / total seconds" by result window. (e.g. : 4:30 / 270)
+* Result text print like "playtime / total seconds" by result window. (e.g. : 4:30 / 270)
 * If all files have been work done. print "process finished" by result window.
 
 ## requirements
