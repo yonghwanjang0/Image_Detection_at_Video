@@ -4,7 +4,7 @@ This source code is find the video time and frame count that matches the image t
 This source code makes for windows 10.
 
 ## use
-* Select video files folder.
+* Select the video files folder.
 * Copy the image file with the pattern you want to find to the '/template' folder. (please input only one image.)
 * Press Button Start or Keyboard F2 Button.
 * Whenever matching pattern is found at file, timestamp result is printed in the result window.
