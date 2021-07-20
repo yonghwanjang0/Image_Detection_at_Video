@@ -13,7 +13,7 @@ This source code makes for windows 10.
 ## result
 * At the beginning of each file scan, the file name is printed first.
 * Result text print like "playtime / total seconds" by the result window. (e.g. : 4:30 / 270)
-* If all files have been work done. print "process finished" by result window.
+* If all files have been work done. print "process finished" by the result window.
 
 ## requirements
 * OpenCV
