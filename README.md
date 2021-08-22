@@ -1,7 +1,7 @@
 # Image_Detection_at_Video
 This source code is find the video time and frame count that matches the image template pattern you have entered.
 
-This source code makes for windows 10.
+This source code makes for windows 10. 
 
 ## use
 * Select the video files folder.
