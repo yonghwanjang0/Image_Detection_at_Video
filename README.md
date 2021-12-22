@@ -17,5 +17,5 @@ This source code makes for windows 10.
 
 ## requirements
 * OpenCV
-* PyQt5 
+* PyQt5
  
